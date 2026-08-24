@@ -1,1 +1,1 @@
-# Primer-porgrama-PyGame
+# Primer-programa-PyGame
